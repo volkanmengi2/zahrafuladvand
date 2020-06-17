@@ -1,0 +1,123 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(102, 102, 102, 1);
+  background-image:none;
+  position:relative;
+  left:-146px;
+  width:484px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:484px;
+  height:420px;
+}
+#u0 {
+  border-width:0px;
+  position:absolute;
+  left:146px;
+  top:124px;
+  width:484px;
+  height:420px;
+}
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:202px;
+  width:480px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:235px;
+  height:34px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Verdana';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u2 {
+  border-width:0px;
+  position:absolute;
+  left:271px;
+  top:64px;
+  width:235px;
+  height:34px;
+  font-family:'Verdana';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u3 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:235px;
+  white-space:nowrap;
+}
+body.a {  background-color:rgba(102, 102, 102, 1);
+  background-image:none;
+  position:relative;
+  left:-147px;
+  width:484px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u0.a {
+  left:147px;
+}
+#u0_img.a {
+}
+#u1.a {
+}
+#u2.a {
+  left:272px;
+  top:50px;
+}
+#u2_div.a {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:235px;
+  height:34px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Verdana';
+  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+  color:#CCCCCC;
+}
+#u3.a {
+}
